@@ -1,0 +1,1 @@
+guest = ['Kelly', 'Amanda', 'Lena']

@@ -1,0 +1,2 @@
+guest = ['kelly','amanda','bethany']
+print(guest)
